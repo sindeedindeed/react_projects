@@ -15,7 +15,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -r https://github.com/sindeedindeed/react_projects.git -b gh-pages"
+    "deploy": "gh-pages -d dist -r https://github.com/sindeedindeed/react_projects.git -b gh-pages -e todo-app"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.7",
